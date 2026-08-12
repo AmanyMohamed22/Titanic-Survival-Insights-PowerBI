@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard designed to analyze passenger demographics, ticket economics, and survival factors from the classic Titanic dataset. 
 
-![Titanic Survival Insights Dashboard](dashboard.png) *(Note: Replace with your actual image path or upload the image to GitHub)*
+![Titanic Survival Insights Dashboard](<img width="1840" height="1050" alt="Screenshot 2026-06-30 105927" src="https://github.com/user-attachments/assets/dc4762bb-3f23-4954-a37e-766c380a4fde" />)
 
 ---
 
